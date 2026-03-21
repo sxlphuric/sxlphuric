@@ -1,7 +1,7 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**Effective**](https://bento.me/sxlphuric)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=wow%20this%20is%20;wow;im%20effective;sxlphuric%20is%20cooool)](https://sxl.phuri.cc)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Hello%21;I%27m%20Sulphuric;Yeah%2E%2E%2E)](https://sxl.phuri.cc)
 
 <a href="https://sxl.phuri.cc" target="_blank" rel="noreferrer">
 <picture>  
@@ -23,7 +23,7 @@ I'm js a student that LOVES coding and linux
 --------------------------------------------------------------------------
 <br>
 
-*   🌍  I'm based in Canada
+*   🇨🇦  I live in Canada
 *   🖥️  [**`Website`**](http://sxl.phuri.cc), [**`Bento`**](http://bento.me/sxlphuric)
 *   ✉️  [`sxl@phuri.cc`](mailto:sxl@phuri.cc)
 *   🚀  I'm currently working on [Replay Manager](http://github.com/sxlphuric/replay-manager)
