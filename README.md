@@ -27,7 +27,7 @@ I'm js a student that LOVES coding and linux
 *   🖥️  [**`Website`**](http://sxl.phuri.cc), [**`Bento`**](http://bento.me/sxlphuric)
 *   ✉️  [`sxl@phuri.cc`](mailto:sxl@phuri.cc)
 *   🚀  I'm currently working on [Replay Manager](http://github.com/sxlphuric/replay-manager)
-*   🧠  I'm currently learning Rust and EGUI
+*   🧠  I'm currently learning C++
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.com/users/803002209934508082) 
 <br>
