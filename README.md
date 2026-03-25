@@ -1,9 +1,17 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**Effective**](https://bento.me/sxlphuric)
 ==================================================================================================================================
 
+<div align="center">
+
+**Niri is cool**
+
+*I am a student that enjoys coding and using Linux*
+</div>
+
+---
+
 [![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Hello%21;I%27m%20Sulphuric;Yeah%2E%2E%2E)](https://sxl.phuri.cc)
 
-<a href="https://sxl.phuri.cc" target="_blank" rel="noreferrer">
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake.svg">
@@ -12,13 +20,6 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </a> 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?hideTimestamp=true&idleMessage=either%20arrpc%20is%20broken%20or%20im%20not%20doing%20anything)](https://discord.com/users/803002209934508082)
-
-
-## bro bro niri is cool trust you should use niri fr
-<br>
-Hi, i'm Effective,
-I'm js a student that LOVES coding and linux
-<br>
 
 --------------------------------------------------------------------------
 <br>
