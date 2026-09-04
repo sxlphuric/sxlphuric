@@ -25,7 +25,7 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 <br>
 
 *   🇨🇦  I live in Canada
-*   🖥️  [**`Website`**](http://sxl.phuri.cc), [**`Bento`**](http://bento.me/sxlphuric)
+*   🖥️  [**`Website`**](https://www.sulphuric.dev), [**`Bento`**](http://bento.me/sxlphuric)
 *   ✉️  [`sxl@phuri.cc`](mailto:sxl@phuri.cc)
 *   🚀  I'm currently working on [Replay Manager](http://github.com/sxlphuric/replay-manager)
 *   🧠  I'm currently learning C++
