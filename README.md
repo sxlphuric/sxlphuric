@@ -10,7 +10,9 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 
 ---
 
+<div align="center">
 [![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=I%20love%20cooking%21;I%20love%20programming%2E%2E%2E;I%20love%20playing%20the%20flute%21)](https://www.sulphuric.dev)
+</div>
 
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake-dark.svg">
