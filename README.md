@@ -3,14 +3,14 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 
 <div align="center">
 
-**Niri is cool**
+**I love cooking and music**
 
-*I am a student that enjoys coding and using Linux*
+*I am a student that enjoys cooking, programming and playing the flute*
 </div>
 
 ---
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Hello%21;I%27m%20Sulphuric;Yeah%2E%2E%2E)](https://sxl.phuri.cc)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=I%20love%20cooking%21;I%20love%20programming%2E%2E%2E;I%20love%20playing%20the%20flute%21)](https://www.sulphuric.dev)
 
 <picture>  
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxlphuric/sxlphuric/output/snake-dark.svg">
@@ -19,16 +19,16 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </picture> 
 </a> 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?hideTimestamp=true&idleMessage=either%20arrpc%20is%20broken%20or%20im%20not%20doing%20anything)](https://discord.com/users/803002209934508082)
+[![Discord Presence](https://lanyard.cnrad.dev/api/803002209934508082?hideTimestamp=true&idleMessage=hi)](https://discord.com/users/803002209934508082)
 
 --------------------------------------------------------------------------
 <br>
 
 *   🇨🇦  I live in Canada
-*   🖥️  [**`Website`**](https://www.sulphuric.dev), [**`Bento`**](http://bento.me/sxlphuric)
+*   🖥️  [**`Website`**](https://www.sulphuric.dev)
 *   ✉️  [`sxl@phuri.cc`](mailto:sxl@phuri.cc)
-*   🚀  I'm currently working on [Replay Manager](http://github.com/sxlphuric/replay-manager)
-*   🧠  I'm currently learning C++
+*   🚀  I'm not currently working on anything. Any ideas?
+*   🧠  I'm currently learning Nix
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.com/users/803002209934508082) 
 <br>
@@ -52,11 +52,3 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 <a href="http://www.github.com/sxlphuric"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sxlphuric&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sxlphuric" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlphuric&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sxlphuric/replay-manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sxlphuric&repo=replay-manager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sxlphuric/mystuff" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sxlphuric&repo=mystuff&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sxlphuric/sxl.phuri.cc" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sxlphuric&repo=sxl.phuri.cc&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sxlphuric/blog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sxlphuric&repo=blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
